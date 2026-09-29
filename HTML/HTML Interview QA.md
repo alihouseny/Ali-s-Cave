@@ -5,7 +5,7 @@
 > Use this file for interview preparation and revision. Read the question, answer it yourself, then open the answer.
 
 ---
-dsadsadsada
+
 ## 📌 Table of Contents
 
 - [Basics](#basics)
