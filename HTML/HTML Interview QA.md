@@ -5,6 +5,10 @@
 > Use this file for interview preparation and revision. Read the question, answer it yourself, then open the answer.
 
 ---
+every table must hace a row and rows so the database can inserted and more indexig
+
+
+
 
 ## 📌 Table of Contents
 
